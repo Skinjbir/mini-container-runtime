@@ -1,0 +1,19 @@
+
+---
+
+## 🔹 `.gitignore`
+
+```gitignore
+# Ignore build directories
+/build
+/CMakeFiles
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Ignore editor/OS files
+*.swp
+*.DS_Store
+
+alpine
+.vscode
